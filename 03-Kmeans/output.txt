@@ -1,0 +1,38 @@
+Student 1: Score = 7.49 → Cluster 0
+Student 2: Score = 19.01 → Cluster 1
+Student 3: Score = 14.64 → Cluster 1
+Student 4: Score = 11.97 → Cluster 1
+Student 5: Score = 3.12 → Cluster 0
+Student 6: Score = 3.12 → Cluster 0
+Student 7: Score = 1.16 → Cluster 0
+Student 8: Score = 17.32 → Cluster 1
+Student 9: Score = 12.02 → Cluster 1
+Student 10: Score = 14.16 → Cluster 1
+Student 11: Score = 0.41 → Cluster 0
+Student 12: Score = 19.40 → Cluster 1
+Student 13: Score = 16.65 → Cluster 1
+Student 14: Score = 4.25 → Cluster 0
+Student 15: Score = 3.64 → Cluster 0
+Student 16: Score = 3.67 → Cluster 0
+Student 17: Score = 6.08 → Cluster 0
+Student 18: Score = 10.50 → Cluster 1
+Student 19: Score = 8.64 → Cluster 0
+Student 20: Score = 5.82 → Cluster 0
+Student 21: Score = 12.24 → Cluster 1
+Student 22: Score = 2.79 → Cluster 0
+Student 23: Score = 5.84 → Cluster 0
+Student 24: Score = 7.33 → Cluster 0
+Student 25: Score = 9.12 → Cluster 0
+Student 26: Score = 15.70 → Cluster 1
+Student 27: Score = 3.99 → Cluster 0
+Student 28: Score = 10.28 → Cluster 1
+Student 29: Score = 11.85 → Cluster 1
+Student 30: Score = 0.93 → Cluster 0
+
+Average score of each cluster:
+Cluster 0: 4.55
+Cluster 1: 14.29
+
+Students in each cluster:
+Cluster 0: [1, 5, 6, 7, 11, 14, 15, 16, 17, 19, 20, 22, 23, 24, 25, 27, 30]
+Cluster 1: [2, 3, 4, 8, 9, 10, 12, 13, 18, 21, 26, 28, 29]
